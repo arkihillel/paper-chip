@@ -1,7 +1,7 @@
 import { PolymerElement } from '@polymer/polymer/polymer-element.js';
 import '@polymer/polymer/lib/elements/dom-if.js';
 import '@polymer/polymer/lib/elements/dom-repeat.js';
-import './paper-chip.js';
+import { PaperChip } from './paper-chip.js';
 import '@polymer/iron-input/iron-input.js';
 import '@polymer/iron-flex-layout/iron-flex-layout.js';
 import { PaperInputBehavior } from '@polymer/paper-input/paper-input-behavior.js';

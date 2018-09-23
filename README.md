@@ -1,10 +1,10 @@
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg?style=flat-square)](https://www.webcomponents.org/element/fabbricadigitale/paper-chip) [![License](https://img.shields.io/badge/license-MIT-yellowgreen.svg?style=flat-square)](http://opensource.org/licenses/MIT) [![Build Status](https://img.shields.io/travis/fabbricadigitale/paper-chip.svg?style=flat-square)]()
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg?style=flat-square)](https://www.webcomponents.org/element/fabbricadigitale/paper-chip) [![License](https://img.shields.io/badge/license-MIT-yellowgreen.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 # \<paper-chip\>
 
 Material design: [Chips](https://material.io/guidelines/components/chips.html#).
 
-> A chip web component made with Polymer 2 following Material Design guidelines
+> A chip web component made with Polymer 3 following Material Design guidelines
 
 This elements family may provide a icon or a photo, some line of text or a contact information with Material Design styling.
 

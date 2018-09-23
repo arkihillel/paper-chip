@@ -162,7 +162,7 @@ import { IronA11yKeysBehavior } from '@polymer/iron-a11y-keys-behavior/iron-a11y
  * @demo demo/index.html
  */
 
-class PaperChip extends
+export class PaperChip extends
     mixinBehaviors(IronControlState,
         mixinBehaviors(IronButtonState,
             mixinBehaviors(IronA11yKeysBehavior, PolymerElement))) {
